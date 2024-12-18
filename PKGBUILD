@@ -4,7 +4,7 @@
 # Maintainer: Pellegrino Prevete (tallero) <pellegrinoprevete@gmail.com>
 # Maintainer: Daniel Bermond <dbermond@archlinux.org>
 
-pkg=celt
+_pkg=celt
 pkgname="${_pkg}"
 pkgver=0.11.3
 pkgrel=7
